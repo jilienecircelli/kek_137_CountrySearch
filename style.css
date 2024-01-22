@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#countryInfo {
+    margin-top: 20px;
+}
+
+.flag, .coatOfArms {
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+.currency, .capital, .languages {
+    margin: 10px 0;
+}
